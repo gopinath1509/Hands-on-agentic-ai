@@ -104,7 +104,7 @@ The OpenRouter guides in this repository show how to load the key temporarily in
 
 # Repository files
 
-text
+
 Hands-on-agentic-ai/
 ├── README.md
 ├── claude-code-superpowers-setup.md
